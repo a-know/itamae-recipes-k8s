@@ -1,0 +1,11 @@
+{
+  "id": "hoge",
+  "uid": "hoge",
+  "gid": "hoge",
+  "password": "設定したいパスワードのシャドウパスワードを作成、その文字列を指定する",
+  "home": "/home/hoge",
+  "shell": "/bin/bash",
+  "authorized_keys": [
+    "ssh-rsa AAA..."
+  ]
+}
