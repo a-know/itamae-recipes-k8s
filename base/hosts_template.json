@@ -1,0 +1,5 @@
+{
+  "master01_private_ip": "192.168.0.x",
+  "node01_private_ip": "192.168.0.x",
+  "node02_private_ip": "192.168.0.x"
+}
