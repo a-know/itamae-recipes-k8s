@@ -2,4 +2,4 @@ Gemfile.lock
 a-know.json
 a-know-hosts.json
 serviceaccount.key
-config.json
+master_config.json
