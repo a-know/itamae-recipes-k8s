@@ -1,6 +1,6 @@
 # itamae-recipes-k8s
 ## About this repository
-TBD
+[CloudGarage の無償インスタンスを利用して kubernetes クラスタを構築してみる](http://blog.a-know.me/entry/2017/10/01/214621)(in japanese)
 
 ## Usage
 ### 0. Prepare
