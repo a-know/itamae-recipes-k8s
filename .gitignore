@@ -3,3 +3,4 @@ a-know.json
 a-know-hosts.json
 serviceaccount.key
 master_config.json
+node_config.json
